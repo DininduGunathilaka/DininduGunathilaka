@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Dinindu Gunathilaka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2
+<h2 align="center">IT Undergraduate at University of Moratuwa</h2
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -26,7 +26,7 @@
 <br>
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&background=00014E&sideNums=FF00D0&sideLabels=3CFF00&dates=FFFFFF&currStreakLabel=00FF32&currStreakNum=FF00B3&stroke=01FCFF&fire=23FF00&ring=01FCFF)](https://git.io/streak-stats)
 
 <br>
 
@@ -151,11 +151,9 @@
 
 <br/>
 
+
 ## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+ <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
