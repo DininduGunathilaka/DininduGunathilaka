@@ -54,22 +54,22 @@
 <a href="https://www.linkedin.com/in/imalshaliyanage/" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="Imalsha Liyanage" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/imalsha.liyanage.79" target="blank"><img align="center"
+ <a href="https://www.facebook.com/imalsha.liyanage.79" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Imalsha Liyanage" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/imalshashehanil1" target="blank"><img align="center"
+ <a href="https://www.hackerrank.com/imalshashehanil1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="Imalsha Liyanage" height="30" width="40" /></a>
  <a href="mailto:imalshashehaniliyanage@gmail.com" target="blank">
       <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Imalsha Liyanage" height="30" width="40"/>
       </a>
-  <a href="https://medium.com/@ImalshaLiyanage">
+ <a href="https://medium.com/@ImalshaLiyanage">
     <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Imalsha Liyanage|Medium" height="30" width="30"/>
   </a>
- <a href="https://twitter.com/ImalshaLiyanage?t=txJfeTRfROWu7Femk1F4_Q&s=09" target="_blank">
+<a href="https://twitter.com/ImalshaLiyanage?t=txJfeTRfROWu7Femk1F4_Q&s=09" target="_blank">
   <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Imalsha Liyanage | Twitter" height="30" width="40" />
 </a> 
- <a href="https://stackoverflow.com/users/17995557/imalsha-liyanage" target="_blank">
+<a href="https://stackoverflow.com/users/17995557/imalsha-liyanage" target="_blank">
  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" height="30" width="30" />
  </a>
 
