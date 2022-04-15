@@ -193,7 +193,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/DininduGunathilaka/github-readme-activity-graph"><img alt="Dinindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DininduGunathilaka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/DininduGunathilaka/github-readme-activity-graph"><img alt="Dinindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DininduGunathilaka&bg_color=0D1117&color=00b7ff&line=00eeff&point=FFFFFF&hide_border=true" /></a>
   <br/>
 
 
@@ -201,6 +201,5 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DininduGunathilaka&layout=compact&theme=dracula" alt="Trophies" /></a> </p>
 
------
 Last Edited on: 15/04/2022
 
