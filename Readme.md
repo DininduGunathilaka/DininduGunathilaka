@@ -183,7 +183,6 @@
 ## 📊 Github Profile Stats
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dinindu Gunathilaka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DininduGunathilaka&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DininduGunathilaka&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DininduGunathilaka" height="192px"/>
   <br/>
