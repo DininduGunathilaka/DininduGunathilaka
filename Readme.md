@@ -40,20 +40,13 @@
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]().
 - :nerd_face: Always `adoptive to emerging technologies`
 
-<br>
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&background=00014E&sideNums=FF00D0&sideLabels=3CFF00&dates=FFFFFF&currStreakLabel=00FF32&currStreakNum=FF00B3&stroke=01FCFF&fire=23FF00&ring=01FCFF)](https://git.io/streak-stats)
-
-<br>
-
 <!--Contact Details -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <div align="center">
 	
-<a href="https://www.linkedin.com/in/imalshaliyanage/" target="blank"><img align="center"
+ <a href="www.linkedin.com/in/dinindu-gunathilaka" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="Imalsha Liyanage" height="30" width="40" /></a>
+      alt="Linkedin" height="30" width="40" /></a>
  <a href="https://www.facebook.com/imalsha.liyanage.79" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Imalsha Liyanage" height="30" width="40" /></a>
@@ -189,7 +182,12 @@
 
 <br/>
 
+<br>
 
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&background=00014E&sideNums=FF00D0&sideLabels=3CFF00&dates=FFFFFF&currStreakLabel=00FF32&currStreakNum=FF00B3&stroke=01FCFF&fire=23FF00&ring=01FCFF)](https://git.io/streak-stats)
+
+<br>
 ## 📊 Github Stats
  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
