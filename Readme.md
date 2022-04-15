@@ -7,17 +7,19 @@
 </h3>
 
 <!--Profile visitings -->
-<div align="left">
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a><br>
-or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me
-<i>Happy Coding!</i> 🧑‍💻
-</div>
+<div>
+	<div align="left">
+		Welcome to my Github profile.<br>
+		Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 			Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a>			or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me
+		<i>Happy Coding!</i> 🧑‍💻
+	</div>
+	<div>
+		<!--Profile Gif -->
+		<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" alt="giphy">
+	
+	</div>
 
-<!--Profile Gif -->
-<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" alt="giphy">
-<br>
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
