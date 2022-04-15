@@ -180,7 +180,7 @@
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&background=00014E&sideNums=FF00D0&sideLabels=3CFF00&dates=FFFFFF&currStreakLabel=00FF32&currStreakNum=FF00B3&stroke=01FCFF&fire=23FF00&ring=01FCFF)](https://git.io/streak-stats)
 
-<br>
+
 ## 📊 Github Stats
  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
