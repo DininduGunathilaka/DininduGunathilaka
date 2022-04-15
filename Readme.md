@@ -15,7 +15,7 @@
 	</div>
 	<div align="center">
 		<!--Profile Gif -->
-		<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" alt="giphy">
+		<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="giphy">
 	</div>
 </div>
 
