@@ -9,7 +9,8 @@
 
 <div align="center">
 Welcome to my Github profile.<br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a>or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me.<br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br>
+Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a>or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me.<br>
 <i>Happy Coding!</i> 🧑‍💻
 </div>
 
@@ -25,9 +26,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <div>
 	<img src="https://komarev.com/ghpvc/?username=DininduGunathilaka&label=Profile%20views&color=brightgreen&style=plastic" alt="Dinindu's profile views" /> 
-	<a href = "https://commits.top/sri_lanka.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
+	<a href="https://github.com/DininduGunathilaka?tab=followers"><img src="https://img.shields.io/github/followers/DininduGunathilaka?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
 
@@ -68,15 +67,15 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ## 🛠️ My Skills and Tools Bucket
 <div allign='center'>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-  &emsp;
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+ &emsp;
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+	 &emsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+		 &emsp;
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
