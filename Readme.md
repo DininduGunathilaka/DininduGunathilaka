@@ -9,8 +9,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
 <!--Profile Gif -->
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="giphy">
+<img align='center' src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="220" alt="giphy">
 <br>
 
 <p align="center"> 
@@ -23,7 +24,7 @@
 
 ## :sassy_man:  About me
 - 👨‍🎓: I am a IT Undergraduate at Faculty of Information Technology, University of Moratuwa.
-- :technologist: I love to find solution for`Problems` by
+- :technologist: I love to find solution for`Problems` by applying skills.
 - :computer: I am a competitive programmer who thrives to solve problems by working `smart`
 - :student: I’m currently learning: `Information Technology` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]().
