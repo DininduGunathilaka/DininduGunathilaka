@@ -199,10 +199,11 @@
   <br/>
    <a href="https://github.com/DininduGunathilaka/github-readme-activity-graph"><img alt="Dinindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DininduGunathilaka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   <br/>
-  
+
+
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=dracula" alt="7oskaaa" /></a> </p>
 
 -----
 Last Edited on: 15/04/2022
