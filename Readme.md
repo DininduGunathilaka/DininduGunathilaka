@@ -23,12 +23,12 @@ or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center"> 
+<div>
 	<img src="https://komarev.com/ghpvc/?username=DininduGunathilaka&label=Profile%20views&color=brightgreen&style=plastic" alt="Dinindu's profile views" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
+	<a href = "https://commits.top/sri_lanka.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
 	</a>
-</p>
+</div>
 
 
 ## :sassy_man:  About me
