@@ -25,7 +25,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DininduGunathilaka&theme=algolia" alt="DininduGunathilaka" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
 
 <br>
 <br>
