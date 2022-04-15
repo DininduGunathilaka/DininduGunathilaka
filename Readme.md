@@ -46,15 +46,41 @@
 
 <br>
 
+<!--Contact Details -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+	
+	<a href="mailto:dinindugunathilaka@gmail.com" target="blank">
+      <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Email" height="30" width="40"/>
+	</a>
+	
+	<a href="www.linkedin.com/in/dinindu-gunathilaka" target="blank"><img align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="Linkedin" height="30" width="40" />
+	</a>
+	
+	<a href="https://stackoverflow.com/users/18193037" target="_blank">
+ <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" height="30" width="30" />
+	</a>
+	
+	<a href="https://www.hackerrank.com/Wiresharks_MX6" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="Hackerrank" height="30" width="40" />
+	</a>
+	
+	<a href="https://medium.com/@dinindugunathilaka">
+    <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Medium" height="30" width="30"/>
+	</a>
+	
+	<a href="https://www.facebook.com/addex.trueno" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook" height="30" width="40" />
+	</a>
+	
+	<a href="https://twitter.com/DiniX99" target="_blank">
+  <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Twitter" height="30" width="40" />
+	</a> 
+		
 </p>
 
 
