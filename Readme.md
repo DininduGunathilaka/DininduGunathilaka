@@ -8,14 +8,14 @@
 
 <!--Profile visitings -->
 <div>
-	<div align="left">
+	<div align="center">
 		Welcome to my Github profile.<br>
 		Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 			Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a>			or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me.<br>
 		<i>Happy Coding!</i> 🧑‍💻
 	</div>
-	<div allign="right">
+	<div align="center">
 		<!--Profile Gif -->
-		<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" alt="giphy">
+		<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" alt="giphy">
 	</div>
 </div>
 
