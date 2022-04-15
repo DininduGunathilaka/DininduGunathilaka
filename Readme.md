@@ -5,22 +5,22 @@
 <h3 align="center">
 	Undergraduate| Tech Enthusiast
 </h3>
-
 <!--Profile visitings -->
-<div>
-	<div align="center">
-		Welcome to my Github profile.<br>
-		Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 			Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a>			or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me.<br>
-		<i>Happy Coding!</i> 🧑‍💻
-	</div>
-	<div align="center">
-		<!--Profile Gif -->
-		<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="giphy">
-	</div>
+
+<div align="center">
+Welcome to my Github profile.<br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a>or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me.<br>
+<i>Happy Coding!</i> 🧑‍💻
 </div>
 
+<div align="center">
+<!--Profile Gif -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="giphy">
+</div>
+
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+and+Committed+Team+Player"></a>
 </p>
 
 <div>
