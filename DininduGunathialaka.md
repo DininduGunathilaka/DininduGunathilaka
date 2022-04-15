@@ -189,4 +189,4 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DiniX99&layout=compact&theme=algolia" alt="DiniX99" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
