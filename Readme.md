@@ -44,7 +44,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <div align="center">
 	
- <a href="https://www.linkedin.com/in/dinindu-gunathilaka/" target="blank"><img align="center"
+ <a href="https://www.linkedin.com/in/dinindu-gunathilaka/" target="_blank"><img align="center"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="Linkedin" height="30" width="40" /></a>
  <a href="https://www.facebook.com/imalsha.liyanage.79" target="blank"><img align="center"
