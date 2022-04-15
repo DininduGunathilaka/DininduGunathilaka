@@ -3,8 +3,17 @@
 	Hey, I'm Dinindu Gunathilaka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <h3 align="center">
-	IT Undergraduate at University of Moratuwa
+	Undergraduate| Tech Enthusiast
 </h3>
+
+<!--Profile visitings -->
+<div align="center">
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a><br>
+or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me
+<i>Happy Coding!</i> 🧑‍💻
+</div>
 
 <!--Profile Gif -->
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" alt="giphy">
