@@ -58,7 +58,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Imalsha Liyanage" height="30" width="40" /></a>
  <a href="https://www.facebook.com/imalsha.liyanage.79" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"
+      src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg"
       alt="Imalsha Liyanage" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/imalshashehanil1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
