@@ -48,7 +48,7 @@
 
 <!--Contact Details -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
+<div align="center">
 	
 	<a href="mailto:dinindugunathilaka@gmail.com" target="blank">
       <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Email" height="30" width="40"/>
@@ -81,7 +81,7 @@
   <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Twitter" height="30" width="40" />
 	</a> 
 		
-</p>
+</div>
 
 
 
