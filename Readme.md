@@ -10,15 +10,13 @@
 <div>
 	<div align="left">
 		Welcome to my Github profile.<br>
-		Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 			Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a>			or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me
+		Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. 			Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a>			or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me.<br>
 		<i>Happy Coding!</i> 🧑‍💻
 	</div>
-	<div>
+	<div allign="right">
 		<!--Profile Gif -->
 		<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" alt="giphy">
-	
 	</div>
-
 </div>
 
 <p align="center">
