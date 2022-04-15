@@ -7,7 +7,7 @@
 </h3>
 
 <!--Profile Gif -->
-<img  src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" alt="giphy">
+<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" alt="giphy">
 <br>
 
 <p align="center">
