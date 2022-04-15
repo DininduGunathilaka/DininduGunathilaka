@@ -76,9 +76,11 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 &emsp;
+<a href="#" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="sass" width="48" height="48"/> </a> 
+&emsp;
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 &emsp;!
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/73194227/163589396-d6e65fce-c99a-4afa-afd4-dc955fceb9ed.png" alt="mongodb" width="48" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/73194227/163589763-eb6d82db-a136-4727-add2-65e72cbabaf1.png" alt="sass" width="48" height="48"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 &emsp;
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
