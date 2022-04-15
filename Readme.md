@@ -76,17 +76,23 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 &emsp;
-<a href="#" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="sass" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="TS" width="35" height="35"/> </a> 
 &emsp;
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 &emsp;
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/73194227/163589763-eb6d82db-a136-4727-add2-65e72cbabaf1.png" alt="sass" width="48" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/73194227/163589763-eb6d82db-a136-4727-add2-65e72cbabaf1.png" alt="sass" width="35" height="35"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 &emsp;
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+&emsp;
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" alt="sass" width="35" height="35"/> </a> 
+&emsp;
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-svg-vector.svg" alt="sass" width="35" height="35"/> </a> 
+&emsp;
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+&emsp;
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
