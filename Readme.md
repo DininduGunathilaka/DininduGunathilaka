@@ -123,6 +123,12 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 &emsp;
 <a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/816/565/png-clipart-code-blocks-integrated-development-environment-c-computer-programming-installation-others-miscellaneous-rectangle.png" alt="proteus" width="75" height="50"/> </a>
 &emsp;
+<a href="#" target="_blank"> <img src="https://jelastic.com/blog/wp-content/uploads/2013/04/netbeans-logo.jpg" alt="proteus" width="91" height="50"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://logowik.com/content/uploads/images/arduino5804.jpg" alt="proteus" width="67" height="50"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/icons/atmel_studio.png?itok=Y_BrK5R2" alt="proteus" width="50" height="50"/> </a>
+&emsp;
 </div>
 
 
