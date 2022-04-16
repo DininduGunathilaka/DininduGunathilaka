@@ -93,16 +93,28 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 &emsp;
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 &emsp;
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+&emsp;
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
+&emsp;
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+&emsp;
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+&emsp;
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
 &emsp;
-<a href="#" target="_blank"> <img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="PS" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="PS" width="50" height="50"/> </a>
 &emsp;
-<a href="#" target="_blank"> <img src="https://download.blender.org/branding/blender_logo_socket.png" alt="PS" width="158" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://download.blender.org/branding/blender_logo_socket.png" alt="PS" width="158" height="50"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/73194227/163660802-94bf8c03-e070-45e4-87db-d7bc9887466d.png" alt="proteus" width="50" height="50"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="PS" width="158" height="50"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://www.pngplay.com/wp-content/uploads/13/Ubuntu-Logo-Transparent-Background.png" alt="PS" width="194" height="50"/> </a>
 &emsp;
 </div>
+
 
 
 ## 🔥 Streak Stats
