@@ -109,9 +109,11 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 &emsp;
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/73194227/163660802-94bf8c03-e070-45e4-87db-d7bc9887466d.png" alt="proteus" width="50" height="50"/> </a>
 &emsp;
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="PS" width="158" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="PS" width="50" height="50"/> </a>
 &emsp;
 <a href="#" target="_blank"> <img src="https://www.pngplay.com/wp-content/uploads/13/Ubuntu-Logo-Transparent-Background.png" alt="PS" width="194" height="50"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Logo.png" alt="proteus" width="89" height="50"/> </a>
 &emsp;
 </div>
 
