@@ -115,6 +115,14 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 &emsp;
 <a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Logo.png" alt="proteus" width="89" height="50"/> </a>
 &emsp;
+<a href="#" target="_blank"> <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="proteus" width="67" height="50"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="proteus" width="80" height="50"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="proteus" width="50" height="50"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/816/565/png-clipart-code-blocks-integrated-development-environment-c-computer-programming-installation-others-miscellaneous-rectangle.png" alt="proteus" width="75" height="50"/> </a>
+&emsp;
 </div>
 
 
