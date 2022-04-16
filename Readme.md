@@ -76,11 +76,11 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 &emsp;
-<a href="#" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="TS" width="35" height="35"/> </a> 
+<a href="#" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="TS" width="48" height="48"/> </a> 
 &emsp;
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 &emsp;
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/73194227/163589763-eb6d82db-a136-4727-add2-65e72cbabaf1.png" alt="sass" width="45" height="45"/> </a> 
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/73194227/163589763-eb6d82db-a136-4727-add2-65e72cbabaf1.png" alt="sass" width="48" height="45"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 &emsp;
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
@@ -96,9 +96,14 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://materializecss.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/materialize-logo.png" width="60" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>  
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
+&emsp;
+<a href="#" target="_blank"> <img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="PS" width="40" height="40"/> </a>
+&emsp;
+<a href="#" target="_blank"> <img src="https://download.blender.org/branding/blender_logo_socket.png" alt="PS" width="158" height="40"/> </a>
+&emsp;
 </div>
+
 
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&sideNums=FF00CB&currStreakLabel=00FFF2&currStreakNum=00FFF2&ring=AE00FF&fire=FF09FB&background=000637&sideLabels=EA01FF)](https://git.io/streak-stats)
