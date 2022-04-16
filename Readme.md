@@ -138,15 +138,12 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 
 ## 📊 Github Profile Stats
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dinindu Gunathilaka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DininduGunathilaka&show_icons=true&count_private=true&theme=jolly" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dinindu Gunathilaka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DininduGunathilaka&show_icons=true&count&theme=jolly" height="192px"/></a>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DininduGunathilaka&langs_count=10&show_icons=true&locale=en&layout=compact&theme=jolly" alt="DininduGunathilaka" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DininduGunathilaka&langs_count=10&show_icons=true&locale=en&layout=compact&theme=jolly" alt="DininduGunathilaka" height="192px"/>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DininduGunathilaka&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
