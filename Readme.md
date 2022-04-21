@@ -10,7 +10,7 @@
 <div align="center">
 Welcome to my Github profile.<br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br>
-Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a>or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me.<br>
+Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilaka/issues/new"><b>here</b></a> or <a href="mailto:dinindugunathilaka@gmail.com"><b>email</b></a> me.<br>
 <i>Happy Coding!</i> 🧑‍💻
 </div>
 
