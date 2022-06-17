@@ -131,10 +131,10 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 &emsp;
 </div>
 
-
-
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&sideNums=FF00CB&currStreakLabel=00FFF2&currStreakNum=00FFF2&ring=AE00FF&fire=FF09FB&background=000637&sideLabels=EA01FF)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DininduGunathilaka)](https://git.io/streak-stats)
 
 ## 📊 Github Profile Stats
   <p align="center">
