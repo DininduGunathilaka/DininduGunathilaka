@@ -39,7 +39,7 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 - :nerd_face: Always `adoptive to emerging technologies`
 
 <!--Contact Details -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## Connect with me
 <div align="center">
 <a href="mailto:dinindugunathilaka@gmail.com" target="_blank"><img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Email" height="30" width="35"/></a>	
 <a href="https://www.linkedin.com/in/dinindu-gunathilaka/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="30" width="40" /></a>
