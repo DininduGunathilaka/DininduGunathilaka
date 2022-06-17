@@ -131,10 +131,9 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 &emsp;
 </div>
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&sideNums=FF00CB&currStreakLabel=00FFF2&currStreakNum=00FFF2&ring=AE00FF&fire=FF09FB&background=000637&sideLabels=EA01FF)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DininduGunathilaka)](https://git.io/streak-stats)
+
+## 🔥 Streak Stats
 
 ## 📊 Github Profile Stats
   <p align="center">
@@ -156,5 +155,5 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DininduGunathilaka&layout=compact&theme=dracula" alt="Trophies" /></a> </p>
 
-Last Edited on: 21/04/2022
+Last Edited on: 17/06/2022
 
