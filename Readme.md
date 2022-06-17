@@ -134,12 +134,13 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 
 
 ## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&sideNums=FF00CB&currStreakLabel=00FFF2&currStreakNum=00FFF2&ring=AE00FF&fire=FF09FB&background=000637&sideLabels=EA01FF)](https://git.io/streak-stats)
 
 ## 📊 Github Profile Stats
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dinindu Gunathilaka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DininduGunathilaka&show_icons=true&count&theme=jolly" height="192px"/></a>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DininduGunathilaka&langs_count=10&show_icons=true&locale=en&layout=compact&theme=jolly" alt="DininduGunathilaka" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DininduGunathilaka&langs_count=10&show_icons=true&locale=en&layout=compact&theme=jolly" alt="DininduGunathilaka" height="192px"/>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
