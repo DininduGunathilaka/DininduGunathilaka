@@ -138,7 +138,7 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 
 ## 📊 Github Profile Stats
   <p align="center">
-<img src="[http://github-readme-streak-stats.herokuapp.com?username=DininduGunathilaka&count_private=true&show_icons=true&theme=merko]" alt="DininduGunathilaka" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DininduGunathilaka&langs_count=10&show_icons=true&locale=en&layout=compact&theme=merko" alt="DininduGunathilaka" height="192px"/>
   &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DininduGunathilaka&langs_count=10&show_icons=true&locale=en&layout=compact&theme=merko" alt="DininduGunathilaka" height="192px"/>
   <br>
