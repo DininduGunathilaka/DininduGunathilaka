@@ -135,9 +135,10 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DDDDDD)](https://git.io/streak-stats)
+
 ## 📊 Github Profile Stats
   <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?username=DininduGunathilaka&count_private=true&show_icons=true&theme=merko" alt="DininduGunathilaka" height="192px"/>
+<img src="[http://github-readme-streak-stats.herokuapp.com?username=DininduGunathilaka&count_private=true&show_icons=true&theme=merko](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="DininduGunathilaka" height="192px"/>
   &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DininduGunathilaka&langs_count=10&show_icons=true&locale=en&layout=compact&theme=merko" alt="DininduGunathilaka" height="192px"/>
   <br>
