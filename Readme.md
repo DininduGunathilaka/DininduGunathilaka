@@ -136,7 +136,6 @@ Ask me anything <a href="https://github.com/DininduGunathilaka/DininduGunathilak
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DininduGunathilaka&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DDDDDD)](https://git.io/streak-stats)
 ## 📊 Github Profile Stats
-  <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DininduGunathilaka&count_private=true&show_icons=true&theme=merko)
   &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DininduGunathilaka&langs_count=10&show_icons=true&locale=en&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
